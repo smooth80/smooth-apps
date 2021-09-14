@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\.cxx\\Debug\\2y724cm1\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\.cxx\\Debug\\2y724cm1\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "admob-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\.cxx\\Debug\\2y724cm1\\x86",
+        "admob"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "admob",
+      "output": "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\build\\intermediates\\cxx\\Debug\\2y724cm1\\obj\\x86\\libadmob.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

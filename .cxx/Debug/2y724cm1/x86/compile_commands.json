@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Owner.DESKTOP-TVDEDFE/AndroidStudioProjects/Admob/app/.cxx/Debug/2y724cm1/x86",
+  "command": "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/Owner.DESKTOP-TVDEDFE/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Owner.DESKTOP-TVDEDFE/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dadmob_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\admob.dir\\admob.cpp.o -c C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\src\\main\\cpp\\admob.cpp",
+  "file": "C:\\Users\\Owner.DESKTOP-TVDEDFE\\AndroidStudioProjects\\Admob\\app\\src\\main\\cpp\\admob.cpp"
+}
+]

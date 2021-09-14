@@ -1,0 +1,23 @@
+                    Executable : C:\Users\Owner.DESKTOP-TVDEDFE\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\Owner.DESKTOP-TVDEDFE\AndroidStudioProjects\Admob\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\Owner.DESKTOP-TVDEDFE\AppData\Local\Android\Sdk\ndk\23.0.7599858
+-DCMAKE_ANDROID_NDK=C:\Users\Owner.DESKTOP-TVDEDFE\AppData\Local\Android\Sdk\ndk\23.0.7599858
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Owner.DESKTOP-TVDEDFE\AppData\Local\Android\Sdk\ndk\23.0.7599858\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Owner.DESKTOP-TVDEDFE\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Owner.DESKTOP-TVDEDFE\AndroidStudioProjects\Admob\app\build\intermediates\cxx\Debug\2y724cm1\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\Owner.DESKTOP-TVDEDFE\AndroidStudioProjects\Admob\app\build\intermediates\cxx\Debug\2y724cm1\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\Owner.DESKTOP-TVDEDFE\AndroidStudioProjects\Admob\app\.cxx\Debug\2y724cm1\x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

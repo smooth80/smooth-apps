@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     private var interstitialAd: InterstitialAd? = null
     private lateinit var nextLevelButton: Button
     private lateinit var levelTextView: TextView
-    private val TAG = "MainActivity"
+    private val TAG by lazy { "MainActivity" }
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
