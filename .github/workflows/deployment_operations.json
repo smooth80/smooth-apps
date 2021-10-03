@@ -1,0 +1,32 @@
+[
+  {
+    "id": "/subscriptions/35334bb6-5723-47c4-bdf0-a0d05f62c6d5/resourceGroups/VstsRG-sneakystreamers-031a/providers/Microsoft.Resources/deployments/Deploy_DevOps_Project_sneakystreamers/operations/6DE1948707393CD4",
+    "operationId": "6DE1948707393CD4",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-09-18T11:32:52.6819384Z",
+      "duration": "PT8.8252372S",
+      "trackingId": "b7fae302-cd8e-490d-846a-1859185ac8f6",
+      "serviceRequestId": "14d58c4d-e5b3-4b0f-825a-6c874ed42890",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/35334bb6-5723-47c4-bdf0-a0d05f62c6d5/resourceGroups/VstsRG-sneakystreamers-031a/providers/Microsoft.DevOps/pipelines/sneakystreamers",
+        "resourceType": "Microsoft.DevOps/pipelines",
+        "resourceName": "sneakystreamers"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/35334bb6-5723-47c4-bdf0-a0d05f62c6d5/resourceGroups/VstsRG-sneakystreamers-031a/providers/Microsoft.Resources/deployments/Deploy_DevOps_Project_sneakystreamers/operations/08585696421224839726",
+    "operationId": "08585696421224839726",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-09-18T11:32:52.750929Z",
+      "duration": "PT8.8942278S",
+      "trackingId": "d1fe1729-9d1f-4773-9e78-7b8f81b66ec3",
+      "statusCode": "OK"
+    }
+  }
+]
