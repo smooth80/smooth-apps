@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/249b2ee3-36ea-4c9d-b332-f0d72d2b97af/deploy-status)](https://app.netlify.com/sites/smooth-apps-7f81a/deploys)
 # ✨ smooth-apps ✨
 
 <img src="https://themes.stackbit.com/images/app-demo-1024x768.png" width="600">
